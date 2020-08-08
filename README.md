@@ -4,4 +4,4 @@
 #### 3장 회귀(regression)
 #### 4장 Convolution - 이미지 관련된 인공지능 실수로 Chapter3에 넣어둠
 
-####관련 데이터셋과 저장한 weight 값, json값은 제외 시킴
+#### 관련 데이터셋과 저장한 weight 값, json값은 제외 시킴
