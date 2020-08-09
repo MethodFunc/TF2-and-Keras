@@ -133,3 +133,4 @@ dataset/
 logs/
 mnist_model/
 models/
+result/
