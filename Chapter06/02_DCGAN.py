@@ -12,8 +12,6 @@ SEED = 2020
 tf.random.set_seed(SEED)
 np.random.seed(SEED)
 
-
-
 class DCGAN():
     def __init__(self, rows, cols, channels, z = 10):
         # 입력 형태
